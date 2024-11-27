@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticaCalificada</string>
+    <string-array name="currencies_array">
+        <item>Dólares</item>
+        <item>Euros</item>
+        <item>Pesos Mexicanos</item>
+    </string-array>
+    <string name="resultado">Resultado: </string>
+    <string name="convertir">Convertir</string>
+    <string name="Monto">Ingrese monto en Soles</string>
+</resources>
